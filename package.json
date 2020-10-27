@@ -1,6 +1,6 @@
 {
-    "name": "emby.defaultskin",
-    "displayName": "Default Skin",
+    "name": "emby.squiwheelskin",
+    "displayName": "Squiwheel Skin",
     "version": "1.0.0",
     "description": "The default Emby skin.",
     "plugin": "plugin.js",
