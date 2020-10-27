@@ -17,9 +17,9 @@ define(['playbackManager', 'skinManager', 'userSettings', 'pluginManager', 'brow
 
         var self = this;
 
-        self.name = 'Default Skin';
+        self.name = 'Squiwheel Skin';
         self.type = 'skin';
-        self.id = 'defaultskin';
+        self.id = 'squiwheelskin';
 
         var clockInterval;
         self.load = function () {
